@@ -56,9 +56,27 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ### 🚀 Projects
 
-- 🔬 [LLM Inference Framework](https://github.com/advika30/HPE-CTY) – TorchServe, vLLM, Streamlit  
-- 📄 [Corporate Clause Risk Analyzer](https://github.com/advika30/Corporate-Clause-Risk-Analyzer) – NLP, Transformers, BERT  
-- 💰 [Digital Banking Portal](https://github.com/advika30/Bank_Management) – Flask, React, MySQL  
+Curious, applied, and impact-driven — here are some of the projects I've built that blend AI, full-stack development, and real-world problem solving:
+
+---
+
+💡 **LLM Inference Framework**  
+_🔧 TorchServe · vLLM · Streamlit_  
+A modular, API-driven inference pipeline built to serve LLMs like BERT and ResNet-18 with ultra-low latency. Designed for scalability, visualized via Streamlit, and optimized using vLLM.  
+[🔗 GitHub](https://github.com/advika30/HPE-CTY)
+
+---
+📄 **Corporate Clause Risk Analyzer**  
+_🧠 BERT · Transformers · NLP · Streamlit_  
+Think of it as your smart contract reviewer. This tool parses legal documents, identifies risky clauses, rates them, and summarizes the content — all powered by NLP and Transformer models.  
+[🔗 GitHub](https://github.com/advika30/Corporate-Clause-Risk-Analyzer)
+
+---
+
+💰 **Digital Banking Portal**  
+_🌐 Flask · React · MySQL_  
+A seamless digital banking experience built from the ground up. Users can perform real-time transactions, manage accounts, and interact with a sleek frontend — with all data optimized through efficient SQL queries.  
+[🔗 GitHub](https://github.com/advika30/Bank_Management)
 
 ---
 
