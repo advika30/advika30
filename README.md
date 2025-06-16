@@ -55,6 +55,21 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 </p>
 
 ---
+---
+
+### 📊 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=advika30&theme=radical" alt="GitHub Activity Graph">
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=advika30&show_icons=true&theme=radical" />
+</p>
 
 ### 🚀 Projects
 
