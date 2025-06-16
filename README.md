@@ -61,20 +61,20 @@ Curious, applied, and impact-driven — here are some of the projects I've built
 
 
 💡 **LLM Inference Framework**  
-TorchServe · vLLM · Streamlit_  
+TorchServe · vLLM · Streamlit
 A modular, API-driven inference pipeline built to serve LLMs like BERT and ResNet-18 with ultra-low latency. Designed for scalability, visualized via Streamlit, and optimized using vLLM.  
 [🔗 GitHub](https://github.com/advika30/HPE-CTY)
 
 
 📄 **Corporate Clause Risk Analyzer**  
-BERT · Transformers · NLP · Streamlit_  
+BERT · Transformers · NLP · Streamlit
 Think of it as your smart contract reviewer. This tool parses legal documents, identifies risky clauses, rates them, and summarizes the content — all powered by NLP and Transformer models.  
 [🔗 GitHub](https://github.com/advika30/Corporate-Clause-Risk-Analyzer)
 
 
 
 💰 **Digital Banking Portal**  
-Flask · React · MySQL_  
+Flask · React · MySQL
 A seamless digital banking experience built from the ground up. Users can perform real-time transactions, manage accounts, and interact with a sleek frontend — with all data optimized through efficient SQL queries.  
 [🔗 GitHub](https://github.com/advika30/Bank_Management)
 
