@@ -1,10 +1,18 @@
-
 <h1 align="center">Hi 👋, I'm Advika Gupta</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | SWE @ IBM </h3>
 
 ---
 
+### 👩‍💻 About Me
+
+I'm a passionate final-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at MS Ramaiah Institute of Technology, Bangalore. Currently working as a Software Engineer Intern at IBM, I enjoy building impactful solutions at the intersection of machine learning, backend systems, and full-stack development.
+
+I love solving real-world problems with code—whether it's deploying LLMs for contract analysis or building full-stack apps that serve users in milliseconds. I’ve been fortunate to work with incredible teams at IBM, Schneider Electric, and HPE, and I actively participate in hackathons, research, and open-source projects.
+
+---
+
 ### 🛠️ Tech Stack
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -22,6 +30,8 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -34,19 +44,19 @@
 
 ### 🚀 Projects
 
-- 🔬 [LLM Inference Framework](https://github.com/advika30/HPE-CTY) – TorchServe, vLLM, Streamlit
-- 📄 [Corporate Clause Risk Analyzer](https://github.com/advika30/Corporate-Clause-Risk-Analyzer) – NLP, Transformers, BERT
-- 💰 [Digital Banking Portal](https://github.com/advika30/Bank_Management) – Flask, React, MySQL
+- 🔬 [LLM Inference Framework](https://github.com/advika30/HPE-CTY) – TorchServe, vLLM, Streamlit  
+- 📄 [Corporate Clause Risk Analyzer](https://github.com/advika30/Corporate-Clause-Risk-Analyzer) – NLP, Transformers, BERT  
+- 💰 [Digital Banking Portal](https://github.com/advika30/Bank_Management) – Flask, React, MySQL  
 
 ---
 
 ### 🏆 Achievements
-<p align="center">
-- 🏆 Winner of Best Project of the Year by Alumni Association, RIT <br>
-- 🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally) <br>
-- 🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams) <br>
-- 📢 Secretary at IEEE SIGHT MSRIT
-</p>
+
+- 🏆 Winner of Best Project of the Year by Alumni Association, RIT  
+- 🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally)  
+- 🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams)  
+- 📢 Secretary at IEEE SIGHT MSRIT  
+
 ---
 
 ### 📬 Contact Me
