@@ -71,10 +71,3 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ---
 
-### 📬 Contact Me
-
-📧 [advikag3009@gmail.com](mailto:advikag3009@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/advika-g-606496226)  
-💻 [GitHub](https://github.com/advika30)
-
----
