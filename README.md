@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Advika Gupta</h1>
 <h3 align="center">AI/ML Enthusiast | Software Developer | SWE @ IBM </h3>
-
+<p align="center">
+  <a href="mailto:advikag3009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-advikag3009@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/advika-g-606496226">
+    <img src="https://img.shields.io/badge/LinkedIn-Advika_Gupta-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/advika30">
+    <img src="https://img.shields.io/badge/GitHub-advika30-black?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 ---
 
 ### 👩‍💻 About Me
