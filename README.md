@@ -65,12 +65,6 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=advika30&show_icons=true&theme=radical" />
-</p>
-
 ### 🚀 Projects
 
 Curious, applied, and impact-driven — here are some of the projects I've built that blend AI, full-stack development, and real-world problem solving:
