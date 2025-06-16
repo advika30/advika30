@@ -25,6 +25,9 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ---
 
+
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -43,6 +46,8 @@ I love solving real-world problems through code whether it's deploying LLMs for 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
+
 
 ---
 
@@ -68,7 +73,7 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 
 ---
----
+
 
 ### 📊 GitHub Activity Graph
 
