@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Advika Gupta</h1>
-<h3 align="center">AI/ML Enthusiast | Software Developer | CSE (AIML) @ MSRIT 2025 </h3>
+<h3 align="center">AI/ML Enthusiast | Software Developer | SWE @ IBM </h3>
 
 ---
 
@@ -42,9 +42,9 @@
 
 ### 🏆 Achievements
 <p align="center">
-- 🏆 Winner of Best Project of the Year by Alumni Association, RIT
-- 🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally)
-- 🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams)
+- 🏆 Winner of Best Project of the Year by Alumni Association, RIT <br>
+- 🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally) <br>
+- 🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams) <br>
 - 📢 Secretary at IEEE SIGHT MSRIT
 </p>
 ---
