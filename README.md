@@ -46,7 +46,6 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ---
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
 
