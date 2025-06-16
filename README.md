@@ -48,13 +48,24 @@ I love solving real-world problems through code whether it's deploying LLMs for 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=advika30&theme=github_dark" />
-  <br/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=advika30&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=advika30&theme=github_dark&utcOffset=5" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=advika30&theme=github_dark" />
-</p>
+### 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=advika30&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=advika30&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=advika30&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
+
 
 
 ---
