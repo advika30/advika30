@@ -82,10 +82,10 @@ A seamless digital banking experience built from the ground up. Users can perfor
 
 ### 🏆 Achievements
 
-- 🏆 Winner of Best Project of the Year by Alumni Association, RIT  
-- 🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally)  
-- 🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams)  
-- 📢 Secretary at IEEE SIGHT MSRIT  
+🏆 Winner of Best Project of the Year by Alumni Association, RIT  
+🥇 Finalist at JPMorgan Chase Code for Good 2024 (Top 100 globally)  
+🥈 Finalist at Technova Hackathon 2024 (Top 7 out of 150 teams)  
+📢 Secretary at IEEE SIGHT MSRIT  
 
 ---
 
