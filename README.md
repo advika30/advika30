@@ -5,9 +5,11 @@
 
 ### 👩‍💻 About Me
 
-I'm a passionate final-year Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning at MS Ramaiah Institute of Technology, Bangalore. Currently working as a Software Engineer Intern at IBM, I enjoy building impactful solutions at the intersection of machine learning, backend systems, and full-stack development.
+I'm a passionate Computer Science Engineering graduate specializing in Artificial Intelligence and Machine Learning. Currently working as a Software Engineer Intern at IBM, I thrive on building impactful solutions at the intersection of machine learning, backend systems, and full-stack development.
 
-I love solving real-world problems with code—whether it's deploying LLMs for contract analysis or building full-stack apps that serve users in milliseconds. I’ve been fortunate to work with incredible teams at IBM, Schneider Electric, and HPE, and I actively participate in hackathons, research, and open-source projects.
+I love solving real-world problems through code whether it's deploying LLMs for contract analysis or developing responsive full-stack applications that deliver impressive results. I've had the privilege of working with amazing teams at IBM, Schneider Electric, and HPE, and I actively engage in hackathons, research, and side projects to keep learning and growing.
+
+
 
 ---
 
